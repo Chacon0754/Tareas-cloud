@@ -1,0 +1,17 @@
+# Editor/OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Logs / temporales
+*.log
+*.tmp
+cache/
+uploads/
+
+# PHP / Composer / Node (si aplican)
+vendor/
+node_modules/
+# .env si usas variables de entorno
+.env
