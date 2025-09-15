@@ -1,4 +1,11 @@
 <?php
+    /*
+        Integrantes:
+            Chacón Orduño Martín Eduardo - 351840
+            Cruz Juárez Guillermo - 352905
+            Ruiz Almeida Josue David - 358472
+            Mendoza Escarzaga Erick - 357307
+    */
     if (!isset($_POST["temperature"]) || !isset($_POST["convert_to"])) {
         header("Location: form.php?error=1");
         exit;

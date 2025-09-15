@@ -118,6 +118,13 @@
             <input type="text" placeholder="Temperatura" name="temperature" required>
             <div id="error-message">
                 <?php
+                /*
+                    Integrantes:
+                        Chacón Orduño Martín Eduardo - 351840
+                        Cruz Juárez Guillermo - 352905
+                        Ruiz Almeida Josue David - 358472
+                        Mendoza Escarzaga Erick - 357307
+                */
                     if (isset($_GET["error"])){
                         $error = $_GET["error"];
                         if ($error == 1){
