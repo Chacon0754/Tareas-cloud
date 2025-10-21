@@ -1,4 +1,12 @@
 <?php
+/*
+    Integrantes:
+        Chacón Orduño Martín Eduardo - 351840
+        Cruz Juárez Guillermo - 352905
+        Ruiz Almeida Josue David - 358472
+        Mendoza Escarzaga Erick - 357307
+*/
+
 // Elegir zona horaria
 date_default_timezone_set("America/Mexico_City");
 
